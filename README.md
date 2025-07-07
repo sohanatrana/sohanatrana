@@ -95,12 +95,19 @@ and various other security assessment tools.
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf
 </br></br>
 ### 📚 EDUCATION
-Completed degree from <b>Islamic Arabic University</b></br>
+- Completed degree from <b>Islamic Arabic University</b>
+- Bug Bounty Hunting With Burp Suite (Udemy)
+- Cyber Security Fundamentals in Bangla (Udemy)
+- Kali Linux For Ethical Hacking and Vulnerability assessment (Udemy)
+- cybrary-cert-cissp-or-domain-1-information-security-and-risk-management (Cybrary)
+- cybrary-cert-cissp-or-domain-8-application-security (Cybrary)</br>
 #### Below Some Of Certification From Udemy Courses
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf
-</br>
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-1-information-security-and-risk-management.pdf
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf
+</br></br></br></br></br>
 📊 GITHUB METRICS
 <div align="center">
 
