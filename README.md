@@ -62,7 +62,7 @@ and various other security assessment tools.</br></br>
 
 
 ## 📚 EDUCATION
-<h2>Islamic Arabic University</h2> <h3>Bachelor's Degree | Dhaka, Bangladesh</h3></br></br>
+Completed degree from <b>Islamic Arabic University</b></br></br>
 
 ## 💼 PROFESSIONAL ACTIVITIES
 ### 🐛 BUG BOUNTY PLATFORMS
