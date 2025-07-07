@@ -14,7 +14,7 @@
 #### 💻 PROGRAMMING & SCRIPTING
 
 <p>Python: Exploit development, automation, web scraping</br>
-    Bash: Linux automation, tool scripting</br>
+    Bash:%20%20%20Linux automation, tool scripting</br>
     C: Basic understanding for reverse engineering</br></br>
     Web:</br>
         HTML/CSS (Web structure analysis)</br>
