@@ -88,8 +88,9 @@ and various other security assessment tools.
 </br>
 
 #### 🏆 CTF ACHIEVEMENTS
-    Regular HackerOne CTF Program
+    Regular participate on HackerOne CTF Program
     Yearly ctf program of PHOENIX ctf
+    Practice google pico ctf for fun
     Solved 50+ challenges across categories
 #### Below CTF Certicate Link
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf
