@@ -13,14 +13,14 @@
 ### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
 
-<p>Python: Exploit development, automation, web scraping
-    Bash: Linux automation, tool scripting
-    C: Basic understanding for reverse engineering
-    Web:
-        HTML/CSS (Web structure analysis)
-        JavaScript (XSS, DOM vulnerabilities)
-        PHP (Server-side attack vectors)
-        SQL (Injection payloads, DB exploitation) </p>
+<p>Python: Exploit development, automation, web scraping</br>
+    Bash: Linux automation, tool scripting</br>
+    C: Basic understanding for reverse engineering</br></br>
+    Web:</br>
+        HTML/CSS (Web structure analysis)</br>
+        JavaScript (XSS, DOM vulnerabilities)</br>
+        PHP (Server-side attack vectors)</br>
+        SQL (Injection payloads, DB exploitation) </p></br></br></br>
 
 🔐 SECURITY SPECIALIZATIONS
 
