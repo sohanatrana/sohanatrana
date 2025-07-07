@@ -74,6 +74,22 @@ Completed degree from <b>Islamic Arabic University</b></br></br>
     Intigriti (Discovered API logic flaws)</br>
 #### Below Some Of My Vulnerability PoC that has been reported 
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_sentinelone.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/spartoo_business_logic.mkv
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/race-condition-project-create-infisical.com.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/prowly.com_otp_leaked.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/pass-reset-link-not-expire-after-pass-change_infisical.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/google_race-condition.mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/account-takeover-through-csrf(1).mp4
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/access_control_issue_cloud.elastic.co.mp4
+- https://drive.google.com/file/d/1anQhB56hmHTA2m5ORB9ItSlGqPm70C0T/view?usp=drive_link
+- https://drive.google.com/file/d/1FgS4RYIvzG_7oyq1ADzmDawviDHmJK2B/view?usp=drive_link
+- https://drive.google.com/file/d/1yuxWosm1EhaymMfHrzFMK56_0ixPxqvP/view?usp=drive_link
+- https://drive.google.com/file/d/1Qtqrc5RE4QwzTb6HR20cfsSPH54k8ahR/view?usp=drive_link
+- https://drive.google.com/file/d/1Ar816N4KUohqah9f4yrwpCO5qXEmCLhy/view?usp=drive_link
+- https://drive.google.com/file/d/1bkx94RgxGPt396wZAG7NGgxtS3JSZs7B/view?usp=drive_link
+- https://drive.google.com/file/d/1B_w9dE5C0AMh-LEwTe_WuB38ejpV2CXw/view?usp=drive_link
 </br>
 
 #### 🏆 CTF ACHIEVEMENTS
