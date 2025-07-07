@@ -18,7 +18,7 @@
 🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.</br></br>
 
 ## 🛠️ Bug Bounty & Security Tools:
-<p>Burp Suite (Proxying, Repeater, Intruder, Decoder)</br>
+<p>Burp Suite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Proxying, Repeater, Intruder, Decoder)</br>
 Nmap, Naabu       (Network scanning and enumeration)</br>
 Subfinder, Amass, Assetfinder (Finding Subdomains)</br>
 Sqlmap (Sql injection)</br>
