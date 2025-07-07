@@ -16,7 +16,7 @@
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
 
 🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.
-🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.
+🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.</br>
 
 
 ## 🛠️ Bug Bounty & Security Tools:
@@ -28,7 +28,7 @@ Sqlmap (Sql injection)</br>
 Nuclei (Vulnerability detection with predefined template)</br>
 httpx (multi use case)</br>
 ffuf (fuzzing)</br>
-and various other security assessment tools.</p></br></br></br>
+and various other security assessment tools.</p></br>
 
 
 ## 🐛 Vulnerability Knowledge (and counting!):
