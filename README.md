@@ -9,7 +9,7 @@
 🔹 Cybersecurity Enthusiast 🛡️</br>
 🔹 Penetration Tester 🕸️</br>
 🔹 CTF Player (Capture The Flag Enthusiast) 🚩</br>
-🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br></br></br>
+🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br>
 
 #### 🔗 Connect With Me
 📧 Email: sohanatrana@gmail.com</br>
