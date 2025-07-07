@@ -19,7 +19,7 @@
 
 ## 🛠️ Bug Bounty & Security Tools:
 <p>Burp Suite (Proxying, Repeater, Intruder, Decoder)</br>
-Nmap, Naabu (Network scanning and enumeration)</br>
+Nmap, Naabu       (Network scanning and enumeration)</br>
 Subfinder, Amass, Assetfinder (Finding Subdomains)</br>
 Sqlmap (Sql injection)</br>
 Nuclei (Vulnerability detection with predefined template)</br>
