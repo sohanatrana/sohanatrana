@@ -15,21 +15,20 @@
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
 
-    🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.
+🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.
+🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.
 
-    🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.
 
-    🛠️ Bug Bounty & Security Tools:
+## 🛠️ Bug Bounty & Security Tools:
 
-        Burp Suite (Proxying, Repeater, Intruder, Decoder)
+Burp Suite (Proxying, Repeater, Intruder, Decoder)
+Nmap (Network scanning and enumeration)
+Various other security assessment tools.
 
-        Nmap (Network scanning and enumeration)
 
-        Various other security assessment tools.
+## 🐛 Vulnerability Knowledge (and counting!):
 
-    🐛 Vulnerability Knowledge (and counting!):
-
-        Open Redirect
+- Open Redirect
 
         Host Header Injection
 
