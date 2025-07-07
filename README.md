@@ -67,11 +67,10 @@ Completed degree from <b>Islamic Arabic University</b></br></br>
 ### 💼 PROFESSIONAL ACTIVITIES
 #### 🐛 BUG BOUNTY PLATFORMS
 
-    HackerOne (Reported Critical SSRF/IDOR)
+    https://www.hackerone.com
+    https://www.bugcrowd.com
+    https://www.intigriti.com
 
-    Bugcrowd (Found authentication bypasses)
-
-    Intigriti (Discovered API logic flaws)</br>
 #### Below Some Of My Vulnerability PoC that has been reported 
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_sentinelone.mp4
