@@ -19,12 +19,12 @@
 
 ## 🛠️ Bug Bounty & Security Tools:
 <p>Burp Suite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Proxying, Repeater, Intruder, Decoder)</br>
-Nmap, Naabu       (Network scanning and enumeration)</br>
-Subfinder, Amass, Assetfinder (Finding Subdomains)</br>
-Sqlmap (Sql injection)</br>
-Nuclei (Vulnerability detection with predefined template)</br>
-httpx (multi use case)</br>
-ffuf (fuzzing)</br>
+Nmap, Naabu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Network scanning and enumeration)</br>
+Subfinder, Amass, Assetfinder, Findomain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Finding Subdomains)</br>
+Sqlmap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sql injection)</br>
+Nuclei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Vulnerability detection with predefined template)</br>
+httpx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (multi use case)</br>
+ffuf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (fuzzing)</br>
 and various other security assessment tools.</p></br>
 
 
