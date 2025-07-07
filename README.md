@@ -1,12 +1,53 @@
-- 👋 Hi, This is Shadat Hossain
-- 👀 I’m interested in cybersecurity. i have been learning and playing with security fields to secure web server from hacker since end of 2022. I have learned several vulnerability from online resources. Such as Host Header Injection, File Upload, IDOR, SSTI, Request Smuggling, CSRF, SSRF, OTP Bypass, Authentication, Authorization, Business Logic Error, Api related vulnerability, race condition and many more. i have been hacking as a freelancer on hackerone.com, bugcrowd.com and intigriti.com to secure the world from black hat hacker.
-- 🌱 I’m currently learning new bug and exploit from online blog post, twitter, facebook, hackerone report and write ups.
-- 💞️ I’m looking to collaborate on big challenge
-- 📫 How to reach me ->  mail: sohanatrana@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Shadat Hossain (Ethical Hacker & Bug Bounty Hunter) 🔒🐛
+🛡️ Security Researcher | CTF Player | Bug Hunter
 
-<!---
-sohanatrana/sohanatrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Farmgate, Dhaka, Bangladesh
+📧 Email: sohanatrana@gmail.com
+📞 Phone: +8801575382663
+🌐 Twitter: @sohanrana101
+📌 Facebook: Shadat Hossain
+⚡ About Me
+
+Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, and Vulnerability Research. I've been actively hacking since 2022, exploring various security domains and reporting 50+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, and Intigriti.
+
+🔹 Default OS: Kali Linux 🐍
+🔹 CTF Player (Capture The Flag Enthusiast) 🚩
+🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚
+
+🛠️ Skills & Expertise
+💻 Technical Skills
+
+    Networking & Security Protocols
+
+    Kali Linux & Security Tools (Burp Suite, Nmap, Metasploit, SQLmap, Wireshark)
+
+    Web Exploitation & Bug Hunting
+
+🐛 Vulnerability Specialization
+
+✔ OWASP Top 10 (IDOR, SSRF, CSRF, XXE, SSTI, RCE)
+✔ API Security Testing
+✔ Authentication Bypass & Logic Flaws
+✔ Race Conditions, Request Smuggling, PII Leaks
+✔ CRLF, Access Control Issues, File Upload Vulns
+
+
+📚 Education
+
+🎓 Bachelor’s Degree
+📌 Islamic Arabic University
+📍 Dhaka, Bangladesh
+💼 Work & Contributions
+🔍 Bug Bounty Platforms
+
+    HackerOne (Reported XSS, IDOR, SSRF)
+
+    Bugcrowd (Found Business Logic Flaws)
+
+    Intigriti (Discovered API Vulnerabilities)
+
+🏆 CTF Achievements
+
+    Played multiple CTF competitions (TryHackMe, HackTheBox)
+
+    Solved challenges on Web Exploitation, Forensics, Cryptography
