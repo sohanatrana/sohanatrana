@@ -60,10 +60,6 @@ and various other security assessment tools.</br></br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL (Injection payloads, DB exploitation) </br></br></br>
 
 
-
-### 📚 EDUCATION
-Completed degree from <b>Islamic Arabic University</b></br></br>
-
 ### 💼 PROFESSIONAL ACTIVITIES
 #### 🐛 BUG BOUNTY PLATFORMS
 
@@ -95,7 +91,16 @@ Completed degree from <b>Islamic Arabic University</b></br></br>
     Regular HackerOne CTF Program
     Yearly ctf program of PHOENIX ctf
     Solved 50+ challenges across categories
+#### Below CTF Certicate Link
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf
 
+### 📚 EDUCATION
+Completed degree from <b>Islamic Arabic University</b></br>
+#### Below Some Of Certification From Udemy Courses
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf
+</br>
 📊 GITHUB METRICS
 <div align="center">
 
