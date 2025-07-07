@@ -3,15 +3,15 @@
 
 
 ### ⚡ About Me
-<b> Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, and Vulnerability Research. I've been actively hacking since 2022, exploring various security domains and reporting 50+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, and Intigriti. </b>
+<b> Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, and Vulnerability Research. I've been actively learning and playing with web application security since 2022, exploring various security domains and reporting 50+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, and Intigriti etc. </b>
 
 🔹 Default OS: Kali Linux 🐍
 🔹 CTF Player (Capture The Flag Enthusiast) 🚩
 🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚
 
 
-🛡️ CORE EXPERTISE
-💻 PROGRAMMING & SCRIPTING
+### 🛡️ CORE EXPERTISE
+#### 💻 PROGRAMMING & SCRIPTING
 
     Python: Exploit development, automation, web scraping
 
