@@ -14,13 +14,10 @@
 
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
-
 🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.
-🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.</br>
-
+🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.</br></br>
 
 ## 🛠️ Bug Bounty & Security Tools:
-
 <p>Burp Suite (Proxying, Repeater, Intruder, Decoder)</br>
 Nmap, Naabu (Network scanning and enumeration)</br>
 Subfinder, Amass, Assetfinder (Finding Subdomains)</br>
@@ -32,7 +29,6 @@ and various other security assessment tools.</p></br>
 
 
 ## 🐛 Vulnerability Knowledge (and counting!):
-
 - Open Redirect
 - Host Header Injection
 - File Upload Vulnerabilities
@@ -49,10 +45,7 @@ and various other security assessment tools.</p></br>
 - Business Logic Vulnerabilities
 - API Related Vulnerabilities
 - CRLF Injection
-- Access Control Vulnerabilities
-
-
-
+- Access Control Vulnerabilities</br>
 
 ### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
@@ -66,19 +59,7 @@ and various other security assessment tools.</p></br>
         PHP (Server-side attack vectors)</br>
         SQL (Injection payloads, DB exploitation) </p></br></br></br>
 
-🔐 SECURITY SPECIALIZATIONS
 
-    OWASP Top 10 Mastery (IDOR, SSRF, XXE, RCE)
-
-    API Security (REST, GraphQL testing)
-
-    Advanced Vulns:
-
-        Request Smuggling 🔄
-
-        Race Conditions ⏱️
-
-        Business Logic Flaws 💡
 
 📚 EDUCATION
 <h2>Islamic Arabic University</h2> <h3>Bachelor's Degree | Dhaka, Bangladesh</h3>
