@@ -7,7 +7,7 @@
 
 🔹 Default OS: Kali Linux 🐍</br>
 🔹 CTF Player (Capture The Flag Enthusiast) 🚩</br>
-🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br>
+🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br></br></br>
 
 
 ### 🛡️ CORE EXPERTISE
