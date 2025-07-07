@@ -25,7 +25,7 @@
 > Nuclei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Vulnerability detection with predefined template)</br>
 > httpx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (multi use case)</br>
 > ffuf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (fuzzing)</br>
-and various other security assessment tools.</br>
+and various other security assessment tools.</br></br>
 
 
 ## 🐛 Vulnerability Knowledge (and counting!):
@@ -45,14 +45,14 @@ and various other security assessment tools.</br>
 - Business Logic Vulnerabilities
 - API Related Vulnerabilities
 - CRLF Injection
-- Access Control Vulnerabilities</br>
+- Access Control Vulnerabilities</br></br>
 
 ### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
 
-<p>Python  :  Exploit development, automation, web scraping</br>
-   Bash    :  Linux automation, tool scripting</br>
-    C      :  Basic understanding for reverse engineering</br></br>
+<p>Python&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;Exploit development, automation, web scraping</br>
+   Bash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux automation, tool scripting</br>
+    C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic understanding for reverse engineering</br></br>
     Web:</br>
         HTML/CSS (Web structure analysis)</br>
         JavaScript (XSS, DOM vulnerabilities)</br>
