@@ -10,6 +10,61 @@
 🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br></br></br>
 
 
+## 🧠 Skills & Expertise
+
+### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
+
+    🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.
+
+    🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.
+
+    🛠️ Bug Bounty & Security Tools:
+
+        Burp Suite (Proxying, Repeater, Intruder, Decoder)
+
+        Nmap (Network scanning and enumeration)
+
+        Various other security assessment tools.
+
+    🐛 Vulnerability Knowledge (and counting!):
+
+        Open Redirect
+
+        Host Header Injection
+
+        File Upload Vulnerabilities
+
+        Insecure Direct Object References (IDOR)
+
+        XML External Entity (XXE)
+
+        Server-Side Request Forgery (SSRF)
+
+        Cross-Site Request Forgery (CSRF)
+
+        Server-Side Template Injection (SSTI)
+
+        Request Smuggling
+
+        Race Condition
+
+        Authentication Bypass
+
+        Personally Identifiable Information (PII) Leaks
+
+        Business Logic Vulnerabilities
+
+        API Related Vulnerabilities
+
+        CRLF Injection
+
+        Access Control Vulnerabilities
+
+
+
+
+
+
 ### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
 
