@@ -1,5 +1,5 @@
-### SHADAT HOSSAIN
-Ethical Hacker | Bug Bounty Hunter | Security Researcher
+# SHADAT HOSSAIN
+### Ethical Hacker | Bug Bounty Hunter | Security Researcher
 🔰 ABOUT ME
 <h3 align="center"> <i>"Turning vulnerabilities into lessons since 2022"</i> </h3>
 
