@@ -73,7 +73,7 @@ and various other security assessment tools.</br></br>
 
     Intigriti (Discovered API logic flaws)
 #### Below Some Of My Vulnerability PoC that has been reported 
-
+- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
 
 
 ### 🏆 CTF ACHIEVEMENTS
