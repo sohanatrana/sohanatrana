@@ -62,7 +62,7 @@ and various other security assessment tools.</br></br>
 
 
 ## 📚 EDUCATION
-<h2>Islamic Arabic University</h2> <h3>Bachelor's Degree | Dhaka, Bangladesh</h3>
+<h2>Islamic Arabic University</h2> <h3>Bachelor's Degree | Dhaka, Bangladesh</h3></br></br>
 
 ## 💼 PROFESSIONAL ACTIVITIES
 ### 🐛 BUG BOUNTY PLATFORMS
@@ -71,10 +71,10 @@ and various other security assessment tools.</br></br>
 
     Bugcrowd (Found authentication bypasses)
 
-    Intigriti (Discovered API logic flaws)
+    Intigriti (Discovered API logic flaws)</br>
 #### Below Some Of My Vulnerability PoC that has been reported 
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
-
+</br>
 
 ### 🏆 CTF ACHIEVEMENTS
 
