@@ -15,7 +15,7 @@
 📧 Email: sohanatrana@gmail.com</br>
 📞 Phone: +8801575382663</br>
 📘 Facebook: https://www.facebook.com/sohan.rana.52090</br>
-🐦 Twitter (X): https://x.com/sohanrana101</br>
+🐦 Twitter (X): https://x.com/sohanrana101</br></br></br>
 
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
