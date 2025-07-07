@@ -1,15 +1,14 @@
 # SHADAT HOSSAIN
 ### Ethical Hacker | Bug Bounty Hunter | Security Researcher 🔒🐛
-🔰 ABOUT ME
-<h3 align="center"> <i>"Turning vulnerabilities into lessons since 2022"</i> </h3>
 
-    🐍 Primary OS: Kali Linux (Daily Driver)
+⚡ About Me
 
-    🔥 CTF Addict | 50+ Bugs Reported (Critical-High-Medium)
+<b> Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, and Vulnerability Research. I've been actively hacking since 2022, exploring various security domains and reporting 50+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, and Intigriti. </b>
 
-    📚 Lifetime Learner in Cybersecurity & Offensive Security
+🔹 Default OS: Kali Linux 🐍
+🔹 CTF Player (Capture The Flag Enthusiast) 🚩
+🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚
 
-    🛠️ Security Tool Enthusiast with hands-on experience
 
 🛡️ CORE EXPERTISE
 💻 PROGRAMMING & SCRIPTING
