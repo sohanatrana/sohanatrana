@@ -92,10 +92,9 @@ Completed degree from <b>Islamic Arabic University</b></br></br>
 </br>
 
 #### 🏆 CTF ACHIEVEMENTS
-
-    Regular participant in HackTheBox/TryHackMe
-
-    Solved 100+ challenges across categories
+    Regular HackerOne CTF Program
+    Yearly ctf program of PHOENIX ctf
+    Solved 50+ challenges across categories
 
 📊 GITHUB METRICS
 <div align="center">
