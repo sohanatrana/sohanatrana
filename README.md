@@ -61,11 +61,11 @@ and various other security assessment tools.</br></br>
 
 
 
-## 📚 EDUCATION
+### 📚 EDUCATION
 Completed degree from <b>Islamic Arabic University</b></br></br>
 
-## 💼 PROFESSIONAL ACTIVITIES
-### 🐛 BUG BOUNTY PLATFORMS
+### 💼 PROFESSIONAL ACTIVITIES
+#### 🐛 BUG BOUNTY PLATFORMS
 
     HackerOne (Reported Critical SSRF/IDOR)
 
@@ -76,7 +76,7 @@ Completed degree from <b>Islamic Arabic University</b></br></br>
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
 </br>
 
-### 🏆 CTF ACHIEVEMENTS
+#### 🏆 CTF ACHIEVEMENTS
 
     Regular participant in HackTheBox/TryHackMe
 
