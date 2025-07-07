@@ -93,7 +93,7 @@ and various other security assessment tools.</br></br>
     Solved 50+ challenges across categories
 #### Below CTF Certicate Link
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf
-
+</br></br>
 ### 📚 EDUCATION
 Completed degree from <b>Islamic Arabic University</b></br>
 #### Below Some Of Certification From Udemy Courses
