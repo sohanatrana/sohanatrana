@@ -11,11 +11,11 @@
 🔹 CTF Player (Capture The Flag Enthusiast) 🚩</br>
 🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br></br></br>
 
-### 🔗 Connect With Me
-📧 Email: sohanatrana@gmail.com
-📞 Phone: +8801575382663
-📘 Facebook: https://www.facebook.com/sohan.rana.52090
-🐦 Twitter (X): https://x.com/sohanrana101
+#### 🔗 Connect With Me
+📧 Email: sohanatrana@gmail.com</br>
+📞 Phone: +8801575382663</br>
+📘 Facebook: https://www.facebook.com/sohan.rana.52090</br>
+🐦 Twitter (X): https://x.com/sohanrana101</br>
 
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
