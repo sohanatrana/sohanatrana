@@ -29,38 +29,22 @@ Various other security assessment tools.
 ## 🐛 Vulnerability Knowledge (and counting!):
 
 - Open Redirect
-
-        Host Header Injection
-
-        File Upload Vulnerabilities
-
-        Insecure Direct Object References (IDOR)
-
-        XML External Entity (XXE)
-
-        Server-Side Request Forgery (SSRF)
-
-        Cross-Site Request Forgery (CSRF)
-
-        Server-Side Template Injection (SSTI)
-
-        Request Smuggling
-
-        Race Condition
-
-        Authentication Bypass
-
-        Personally Identifiable Information (PII) Leaks
-
-        Business Logic Vulnerabilities
-
-        API Related Vulnerabilities
-
-        CRLF Injection
-
-        Access Control Vulnerabilities
-
-
+- Host Header Injection
+- File Upload Vulnerabilities
+- Insecure Direct Object References (IDOR)
+- XML External Entity (XXE)
+- Server-Side Request Forgery (SSRF)
+- Cross-Site Request Forgery (CSRF)
+- Cross-Site Scripting (XSS)
+- Server-Side Template Injection (SSTI)
+- Request Smuggling
+- Race Condition
+- Authentication Bypass
+- Personally Identifiable Information (PII) Leaks
+- Business Logic Vulnerabilities
+- API Related Vulnerabilities
+- CRLF Injection
+- Access Control Vulnerabilities
 
 
 
