@@ -13,11 +13,10 @@
 ### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
 
-    <p>Python: Exploit development, automation, web scraping
+<p>Python: Exploit development, automation, web scraping
     Bash: Linux automation, tool scripting
     C: Basic understanding for reverse engineering
     Web:
-
         HTML/CSS (Web structure analysis)
         JavaScript (XSS, DOM vulnerabilities)
         PHP (Server-side attack vectors)
