@@ -1,53 +1,71 @@
-Shadat Hossain (Ethical Hacker & Bug Bounty Hunter) 🔒🐛
-🛡️ Security Researcher | CTF Player | Bug Hunter
+SHADAT HOSSAIN
+Ethical Hacker | Bug Bounty Hunter | Security Researcher
+🔰 ABOUT ME
+<h3 align="center"> <i>"Turning vulnerabilities into lessons since 2022"</i> </h3>
 
-📍 Farmgate, Dhaka, Bangladesh
-📧 Email: sohanatrana@gmail.com
-📞 Phone: +8801575382663
-🌐 Twitter: @sohanrana101
-📌 Facebook: Shadat Hossain
-⚡ About Me
+    🐍 Primary OS: Kali Linux (Daily Driver)
 
-Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, and Vulnerability Research. I've been actively hacking since 2022, exploring various security domains and reporting 50+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, and Intigriti.
+    🔥 CTF Addict | 50+ Bugs Reported (Critical-High-Medium)
 
-🔹 Default OS: Kali Linux 🐍
-🔹 CTF Player (Capture The Flag Enthusiast) 🚩
-🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚
+    📚 Lifetime Learner in Cybersecurity & Offensive Security
 
-🛠️ Skills & Expertise
-💻 Technical Skills
+    🛠️ Security Tool Enthusiast with hands-on experience
 
-    Networking & Security Protocols
+🛡️ CORE EXPERTISE
+💻 PROGRAMMING & SCRIPTING
 
-    Kali Linux & Security Tools (Burp Suite, Nmap, Metasploit, SQLmap, Wireshark)
+    Python: Exploit development, automation, web scraping
 
-    Web Exploitation & Bug Hunting
+    Bash: Linux automation, tool scripting
 
-🐛 Vulnerability Specialization
+    C: Basic understanding for reverse engineering
 
-✔ OWASP Top 10 (IDOR, SSRF, CSRF, XXE, SSTI, RCE)
-✔ API Security Testing
-✔ Authentication Bypass & Logic Flaws
-✔ Race Conditions, Request Smuggling, PII Leaks
-✔ CRLF, Access Control Issues, File Upload Vulns
+    Web:
 
+        HTML/CSS (Web structure analysis)
 
-📚 Education
+        JavaScript (XSS, DOM vulnerabilities)
 
-🎓 Bachelor’s Degree
-📌 Islamic Arabic University
-📍 Dhaka, Bangladesh
-💼 Work & Contributions
-🔍 Bug Bounty Platforms
+        PHP (Server-side attack vectors)
 
-    HackerOne (Reported XSS, IDOR, SSRF)
+        SQL (Injection payloads, DB exploitation)
 
-    Bugcrowd (Found Business Logic Flaws)
+🔐 SECURITY SPECIALIZATIONS
 
-    Intigriti (Discovered API Vulnerabilities)
+    OWASP Top 10 Mastery (IDOR, SSRF, XXE, RCE)
 
-🏆 CTF Achievements
+    API Security (REST, GraphQL testing)
 
-    Played multiple CTF competitions (TryHackMe, HackTheBox)
+    Advanced Vulns:
 
-    Solved challenges on Web Exploitation, Forensics, Cryptography
+        Request Smuggling 🔄
+
+        Race Conditions ⏱️
+
+        Business Logic Flaws 💡
+
+📚 EDUCATION
+<h2>Islamic Arabic University</h2> <h3>Bachelor's Degree | Dhaka, Bangladesh</h3>
+💼 PROFESSIONAL ACTIVITIES
+🐛 BUG BOUNTY PLATFORMS
+
+    HackerOne (Reported Critical SSRF/IDOR)
+
+    Bugcrowd (Found authentication bypasses)
+
+    Intigriti (Discovered API logic flaws)
+
+🏆 CTF ACHIEVEMENTS
+
+    Regular participant in HackTheBox/TryHackMe
+
+    Solved 100+ challenges across categories
+
+📊 GITHUB METRICS
+<div align="center">
+
+https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=vision-friendly-dark
+</div>
+📬 CONNECT WITH ME
+<h3 align="center"> <a href="https://x.com/sohanrana101"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="mailto:sohanatrana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.facebook.com/sohanatrana"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> </h3> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Stay+Curious++%F0%9F%94%8D;Hack+Ethically+%E2%9A%99%EF%B8%8F;Build+Defenses+%F0%9F%92%BB" /> </h1>
