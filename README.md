@@ -131,7 +131,7 @@ and various other security assessment tools.
    - [Cyber Security Fundamentals in Bangla](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf)
    - [Kali Linux For Ethical Hacking and Vulnerability assessment](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf)
    - [cybrary-cert-cissp-or-domain-1-information-security-and-risk-management](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-1-information-security-and-risk-management.pdf)
-   - [cybrary-cert-cissp-or-domain-8-application-security](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf</br>)
+   - [cybrary-cert-cissp-or-domain-8-application-security](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf)</br></br>
 
 
 #### I have also reported a security misconfigured vulnerability to IsDB BISEW 
