@@ -58,6 +58,7 @@ and various other security assessment tools.
 - Business Logic Vulnerabilities
 - API Related Vulnerabilities
 - CRLF Injection
+- Subdomain Takeover
 - Access Control Vulnerabilities</br></br>
 
 ### 🛡️ CORE EXPERTISE
@@ -116,7 +117,7 @@ and various other security assessment tools.
 - Kali Linux For Ethical Hacking and Vulnerability assessment (Udemy)
 - cybrary-cert-cissp-or-domain-1-information-security-and-risk-management (Cybrary)
 - cybrary-cert-cissp-or-domain-8-application-security (Cybrary)</br>
-#### Below Some Of Certification From Udemy Courses
+#### Below Some Of Certification From Udemy & Other Courses
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf
