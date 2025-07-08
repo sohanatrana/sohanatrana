@@ -67,7 +67,7 @@ and various other security assessment tools.
 
 ### 💼 PROFESSIONAL ACTIVITIES
 #### 🐛 BUG BOUNTY PLATFORMS
-
+<p>Actively hacking on the below bug bounty platform on my free time. Happy to secure the world from blackhat hacker</p>
     https://www.hackerone.com
     https://www.bugcrowd.com
     https://www.intigriti.com
