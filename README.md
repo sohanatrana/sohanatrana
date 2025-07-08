@@ -18,7 +18,7 @@
 🐦 Twitter (X): [sohanrana101](https://x.com/sohanrana101)</br></br>
 
 # Recent Activity:
-I have applied IsDB BISEW scholarship program to get job in IT sector. With my education background, it's not possible to get security field job without bachelor in computer science & technology. Now a days it's possible for IsDB to get IT job of non IT backgound student, That's why i applied to IsDB for the IT course and willing to complete the course with full dedication and deep learning to get a suitable job.
+<img src="https://isdb-bisew.org/img/logo.png" alt="ISDB-BISEW Logo" width="20" height="20"> I have applied IsDB BISEW scholarship program to get job in IT sector. With my education background, it's not possible to get security field job without bachelor in computer science & technology. Now a days it's possible for IsDB to get IT job of non IT backgound student, That's why i applied to IsDB for the IT course and willing to complete the course with full dedication and deep learning to get a suitable job.
 <h3>By the i applied IsDB round 67 and my application ID: 1291933</h3></br></br>
 
 ## 🧠 Skills & Expertise
