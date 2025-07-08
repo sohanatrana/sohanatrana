@@ -47,24 +47,25 @@ and various other security assessment tools.
 <p>The OWASP Top 10 provides a critical overview of prevalent web application security flaws, covering areas like flawed access controls, weak data encryption, and susceptibility to code insertion. Beyond these well-known categories, other significant weaknesses can emerge from issues like how a system handles duplicate inputs, the presence of hidden or undocumented features, and vulnerabilities in how a system processes certain data formats, all of which pose substantial risks to data integrity and system availability if not thoroughly addressed. Below a list of vulnerability that i have completed learning.</p>
 
 - Open Redirect
-- Host Header Injection
-- File Upload Vulnerabilities
-- Insecure Direct Object References (IDOR)
-- XML External Entity (XXE)
-- Server-Side Request Forgery (SSRF)
-- Cross-Site Request Forgery (CSRF)
-- Cross-Site Scripting (XSS)
-- Server-Side Template Injection (SSTI)
-- Request Smuggling
-- Race Condition
-- Parameter Temparing (HPP)
-- Authentication Bypass
-- Personally Identifiable Information (PII) Leaks
-- Business Logic Vulnerabilities
-- API Related Vulnerabilities
 - CRLF Injection
+- Race Condition
+- Request Smuggling
 - Subdomain Takeover
-- Access Control Vulnerabilities</br></br>
+- Authentication Bypass
+- Host Header Injection
+- Parameter Temparing (HPP)
+- XML External Entity (XXE)
+- Cross-Site Scripting (XSS)
+- File Upload Vulnerabilities
+- API Related Vulnerabilities
+- Business Logic Vulnerabilities
+- Access Control Vulnerabilities
+- Cross-Site Request Forgery (CSRF)
+- Server-Side Request Forgery (SSRF)
+- Server-Side Template Injection (SSTI)
+- Insecure Direct Object References (IDOR)
+- Personally Identifiable Information (PII) Leaks
+</br></br>
 
 #### 💻 PROGRAMMING & SCRIPTING
 <p>I have learned all of this programming language basic for better understanding of networking, web application workflow, security misconfiguration, doing automation & operating kali linux from command line</p>
