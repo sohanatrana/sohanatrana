@@ -79,7 +79,7 @@ and various other security assessment tools.
 ### 💼 PROFESSIONAL ACTIVITIES
 #### 🐛 BUG BOUNTY PLATFORMS
 <p>Actively hacking on the below bug bounty platform on my free time. Happy to secure the world from blackhat hacker</p>
-    🔹 https://www.hackerone.com </br>
+    🔹 [hackerone](https://www.hackerone.com) </br>
     🔹 https://www.bugcrowd.com </br>
     🔹 https://www.intigriti.com </br>
     🔹 https://www.yeswehack.com </br>
