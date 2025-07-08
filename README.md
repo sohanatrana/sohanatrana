@@ -112,7 +112,15 @@ and various other security assessment tools.
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-1-information-security-and-risk-management.pdf
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf</br>
+
+
+#### I have also reported a security misconfigured vulnerability to IDB 
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Report%20To%20IDB.jpg  (vulnerability report screenshot)
+   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/IDB%20reply.jpg  (reply of the report screenshot)
+
+
+
 </br></br></br></br></br>
 📊 GITHUB METRICS
 <div align="center">
