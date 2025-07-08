@@ -13,7 +13,7 @@
 
 #### 🔗 Connect With Me
 📞 Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +8801575382663</br>
-📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
+📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
 📘 Facebook&nbsp;: https://www.facebook.com/sohan.rana.52090</br>
 🐦 Twitter (X): https://x.com/sohanrana101</br></br></br>
 
