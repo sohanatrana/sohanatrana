@@ -87,7 +87,7 @@ and various other security assessment tools.
    🔹 [Intigriti](https://www.intigriti.com) </br>
    🔹 [Yeswehack](https://www.yeswehack.com) </br>
 
-<b> Below Some Of My Vulnerability PoC that has been reported 
+<b> Below Some Of My Vulnerability PoC that has been reported </b> 
 - [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4)
 - [Server Side Template Injection (SSTI) Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_sentinelone.mp4)
 - [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/spartoo_business_logic.mkv)
@@ -112,7 +112,7 @@ and various other security assessment tools.
     Yearly ctf program of PHOENIX ctf
     Practice google pico ctf for fun
     Solved 50+ challenges across categories
-#### Below CTF Certicate Link
+<b> Below CTF Certicate Link </b>
    - [Phoenix CTF](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf)
 </br></br>
 ### 📚 EDUCATION
@@ -122,7 +122,7 @@ and various other security assessment tools.
 - Kali Linux For Ethical Hacking and Vulnerability assessment (Udemy)
 - cybrary-cert-cissp-or-domain-1-information-security-and-risk-management (Cybrary)
 - cybrary-cert-cissp-or-domain-8-application-security (Cybrary)</br>
-#### Below Some Of Certification From Udemy & Other Courses
+<b> Below Some Of Certification From Udemy & Other Courses</b>
    - [Bug Bounty Hunting With Burp Suite](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf)
    - [Cyber Security Fundamentals in Bangla](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf)
    - [Kali Linux For Ethical Hacking and Vulnerability assessment](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf)
