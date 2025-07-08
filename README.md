@@ -16,7 +16,7 @@
 📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
 📘 Facebook&nbsp;: https://www.facebook.com/sohan.rana.52090</br>
 🐦 Twitter (X): https://x.com/sohanrana101</br></br></br>
-
+<a href="https://x.com/sohanrana101"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
 🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.
