@@ -43,7 +43,7 @@ and various other security assessment tools.
 </br>
 
 ## 🐛 Vulnerability Knowledge (and counting!):
-<p><b>I have completed OWASP Top 10 Vulnerability List Along With Other's</b></p>
+<p>The OWASP Top 10 provides a critical overview of prevalent web application security flaws, covering areas like flawed access controls, weak data encryption, and susceptibility to code insertion. Beyond these well-known categories, other significant weaknesses can emerge from issues like how a system handles duplicate inputs, the presence of hidden or undocumented features, and vulnerabilities in how a system processes certain data formats, all of which pose substantial risks to data integrity and system availability if not thoroughly addressed. Below a list of vulnerability that i have completed learning.</p>
 
 - Open Redirect
 - Host Header Injection
