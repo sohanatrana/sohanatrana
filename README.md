@@ -32,7 +32,7 @@
 > ffuf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (fuzzing)</br>
 and various other security assessment tools.
 
-</br></br>
+</br>
 ## 🐛 Vulnerability Knowledge (and counting!):
 - Open Redirect
 - Host Header Injection
