@@ -3,7 +3,7 @@
 
 
 ### ⚡ About Me
-<b> Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, Capture The Flag (CTF), Networking and Vulnerability Research. I've been actively learning and playing with web application security since 2023, exploring various security domains and reporting 50+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, Intigriti, Yeswehack and self hosted program too. </b></br></br>
+<b> Hey! I'm Shadat Hossain, a passionate Ethical Hacker & Bug Bounty Hunter with experience in Web Application Security, Penetration Testing, Capture The Flag (CTF), Networking and Vulnerability Research. I've been actively learning and playing with web application security since 2023, exploring various security domains and reporting 100+ bugs (Low to Critical) on platforms like HackerOne, Bugcrowd, Intigriti, Yeswehack and self hosted program too. </b></br></br>
 
 🔹 Default OS: Kali Linux 🐍</br>
 🔹 Cybersecurity Enthusiast 🛡️</br>
@@ -16,6 +16,10 @@
 📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
 📘 Facebook&nbsp;: [sohan.rana.52090](https://www.facebook.com/sohan.rana.52090)</br>
 🐦 Twitter (X): [sohanrana101](https://x.com/sohanrana101)</br></br>
+
+# Recent Activity:
+I have applied IsDB BISEW scholarship program to get job in IT sector. With my education background, it's not possible to get security field job without bachelor in computer science & technology. Now a days it's possible for IsDB to get IT job of non IT backgound student, That's why i willing to complete the course with deep learning and get a suitable job.
+By the i applied <h2>IsDB round 67 and my application ID: 1291933</h2>
 
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
