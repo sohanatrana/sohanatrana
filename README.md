@@ -76,9 +76,10 @@ and various other security assessment tools.
 ### 💼 PROFESSIONAL ACTIVITIES
 #### 🐛 BUG BOUNTY PLATFORMS
 <p>Actively hacking on the below bug bounty platform on my free time. Happy to secure the world from blackhat hacker</p>
-    https://www.hackerone.com </br>
-    https://www.bugcrowd.com </br>
-    https://www.intigriti.com </br>
+    🔹 https://www.hackerone.com </br>
+    🔹 https://www.bugcrowd.com </br>
+    🔹 https://www.intigriti.com </br>
+    🔹 https://www.yeswehack.com </br>
 
 #### Below Some Of My Vulnerability PoC that has been reported 
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
