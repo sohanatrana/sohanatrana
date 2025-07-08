@@ -15,7 +15,7 @@
 📞 Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +8801575382663</br>
 📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
 📘 Facebook&nbsp;: [sohan.rana.52090](https://www.facebook.com/sohan.rana.52090)</br>
-🐦 Twitter (X): [sohanrana101](https://x.com/sohanrana101)</br></br></br>
+🐦 Twitter (X): [sohanrana101](https://x.com/sohanrana101)</br></br>
 
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
@@ -42,7 +42,8 @@ and various other security assessment tools.
 
 </br>
 
-## 🐛 Vulnerability Knowledge (and counting!):
+## 🛡️ CORE EXPERTISE
+### 🐛 Vulnerability Knowledge (and counting!):
 <p>The OWASP Top 10 provides a critical overview of prevalent web application security flaws, covering areas like flawed access controls, weak data encryption, and susceptibility to code insertion. Beyond these well-known categories, other significant weaknesses can emerge from issues like how a system handles duplicate inputs, the presence of hidden or undocumented features, and vulnerabilities in how a system processes certain data formats, all of which pose substantial risks to data integrity and system availability if not thoroughly addressed. Below a list of vulnerability that i have completed learning.</p>
 
 - Open Redirect
@@ -65,7 +66,6 @@ and various other security assessment tools.
 - Subdomain Takeover
 - Access Control Vulnerabilities</br></br>
 
-### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
 <p>I have learned of this programming language basic for better understanding of networking, web application workflow, security misconfiguration, doing automation & operating kali linux from command line</p>
    Python&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Exploit development, automation, web scraping</br>
