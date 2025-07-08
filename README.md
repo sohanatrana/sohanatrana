@@ -123,7 +123,7 @@ and various other security assessment tools.
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf</br>
 
 
-#### I have also reported a security misconfigured vulnerability to IDB 
+#### I have also reported a security misconfigured vulnerability to IsDB BISEW 
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Report%20To%20IDB.jpg  (vulnerability report screenshot)
    - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/IDB%20reply.jpg  (reply of the report screenshot)
 
