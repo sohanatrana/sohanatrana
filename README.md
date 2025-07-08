@@ -87,7 +87,7 @@ and various other security assessment tools.
    🔹 [Intigriti](https://www.intigriti.com) </br>
    🔹 [Yeswehack](https://www.yeswehack.com) </br>
 
-#### Below Some Of My Vulnerability PoC that has been reported 
+<b> Below Some Of My Vulnerability PoC that has been reported 
 - [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4)
 - [Server Side Template Injection (SSTI) Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_sentinelone.mp4)
 - [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/spartoo_business_logic.mkv)
