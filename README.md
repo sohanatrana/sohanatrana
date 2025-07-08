@@ -49,10 +49,11 @@ and various other security assessment tools.
 - Open Redirect
 - CRLF Injection
 - Race Condition
-- Request Smuggling
-- Host Header Injection
+
 - Subdomain Takeover
+- Host Header Injection
 - Authentication Bypass
+- HTTP Request Smuggling
 - File Upload Vulnerabilities
 - XML External Entity (XXE)
 - Cross-Site Scripting (XSS)
