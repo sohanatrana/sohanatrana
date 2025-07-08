@@ -14,8 +14,8 @@
 #### 🔗 Connect With Me
 📞 Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +8801575382663</br>
 📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
-📘 Facebook&nbsp;: https://www.facebook.com/sohan.rana.52090</br>
-🐦 Twitter (X): https://x.com/sohanrana101</br></br></br>
+📘 Facebook&nbsp;: [sohan.rana.52090](https://www.facebook.com/sohan.rana.52090)</br>
+🐦 Twitter (X): [sohanrana101](https://x.com/sohanrana101)</br></br></br>
 
 ## 🧠 Skills & Expertise
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
@@ -115,6 +115,7 @@ and various other security assessment tools.
 <b> Below CTF Certicate Link </b>
    - [Phoenix CTF](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf)
 </br></br>
+
 ### 📚 EDUCATION
 - Completed degree from <b>Islamic Arabic University</b>
 - Bug Bounty Hunting With Burp Suite (Udemy)
@@ -122,6 +123,7 @@ and various other security assessment tools.
 - Kali Linux For Ethical Hacking and Vulnerability assessment (Udemy)
 - cybrary-cert-cissp-or-domain-1-information-security-and-risk-management (Cybrary)
 - cybrary-cert-cissp-or-domain-8-application-security (Cybrary)</br>
+
 <b> Below Some Of Certification From Udemy & Other Courses</b>
    - [Bug Bounty Hunting With Burp Suite](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf)
    - [Cyber Security Fundamentals in Bangla](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf)
