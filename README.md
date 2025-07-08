@@ -21,7 +21,7 @@
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
 🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.</br>
 🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.</br>
-[https://emojipedia.org/memo](https://emojipedia.org/memo) This is my personal networking notes that i have written [Link](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Networking%20Notes.pdf)</br></br>
+(`:memo:`) This is my personal networking notes that i have written [Link](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Networking%20Notes.pdf)</br></br>
 
 ## 🛠️ Bug Bounty & Security Tools:
 > Burp Suite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Proxying, Repeater, Intruder, Decoder)</br>
