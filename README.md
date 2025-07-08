@@ -80,10 +80,10 @@ and various other security assessment tools.
 #### 🐛 BUG BOUNTY PLATFORMS
 <p>Actively hacking on the below bug bounty platform on my free time. Happy to secure the world from blackhat hacker</p>
 
-    🔹 [hello](https://www.hackerone.com)
-    🔹 https://www.bugcrowd.com </br>
-    🔹 https://www.intigriti.com </br>
-    🔹 https://www.yeswehack.com </br>
+   🔹 [HackerOne](https://www.hackerone.com)</br>
+   🔹 [BugCrowd](https://www.bugcrowd.com) </br>
+   🔹 [Intigriti](https://www.intigriti.com) </br>
+   🔹 [Yeswehack](https://www.yeswehack.com) </br>
 
 #### Below Some Of My Vulnerability PoC that has been reported 
 - [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4)
