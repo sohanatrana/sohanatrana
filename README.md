@@ -53,11 +53,9 @@ and various other security assessment tools.
 - Host Header Injection
 - Subdomain Takeover
 - Authentication Bypass
-
-- XML External Entity (XXE)
-
-- Cross-Site Scripting (XSS)
 - File Upload Vulnerabilities
+- XML External Entity (XXE)
+- Cross-Site Scripting (XSS)
 - API Related Vulnerabilities
 - Parameter Temparing (HPP)
 - Business Logic Vulnerabilities
