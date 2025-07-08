@@ -53,8 +53,8 @@ and various other security assessment tools.
 - Subdomain Takeover
 - Authentication Bypass
 - Host Header Injection
-- Parameter Temparing (HPP)
 - XML External Entity (XXE)
+- Parameter Temparing (HPP)
 - Cross-Site Scripting (XSS)
 - File Upload Vulnerabilities
 - API Related Vulnerabilities
