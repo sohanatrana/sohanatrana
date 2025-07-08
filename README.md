@@ -74,12 +74,12 @@ and various other security assessment tools.
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript (XSS, DOM vulnerabilities)</br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHP (Server-side attack vectors)</br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL (Injection payloads, DB exploitation) </br></br></br>
-
+[hackerone](https://www.hackerone.com/)
 
 ### 💼 PROFESSIONAL ACTIVITIES
 #### 🐛 BUG BOUNTY PLATFORMS
 <p>Actively hacking on the below bug bounty platform on my free time. Happy to secure the world from blackhat hacker</p>
-    🔹 [hackerone](https://www.hackerone.com) </br>
+     [hackerone](https://www.hackerone.com/)
     🔹 https://www.bugcrowd.com </br>
     🔹 https://www.intigriti.com </br>
     🔹 https://www.yeswehack.com </br>
