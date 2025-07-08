@@ -21,7 +21,7 @@
 ### My learning journey has been comprehensive, covering a wide array of cybersecurity domains:
 🌐 Internet Networking & Protocols: Solid understanding of network fundamentals.</br>
 🐧 Kali Linux Mastery: Proficient in navigating and utilizing the powerful Kali Linux environment.</br>
-(`:memo:`) This is my personal networking notes that i have written [Link](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Networking%20Notes.pdf)</br></br>
+📝 This is my personal networking notes that i have written [Link](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Networking%20Notes.pdf)</br></br>
 
 ## 🛠️ Bug Bounty & Security Tools:
 > Burp Suite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Proxying, Repeater, Intruder, Decoder)</br>
@@ -84,12 +84,12 @@ and various other security assessment tools.
     🔹 https://www.yeswehack.com </br>
 
 #### Below Some Of My Vulnerability PoC that has been reported 
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_sentinelone.mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/spartoo_business_logic.mkv
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/race-condition-project-create-infisical.com.mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_.mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/prowly.com_otp_leaked.mp4
+- [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/business-logic-on-update-mail-figma.mp4)
+- [Server Side Template Injection (SSTI) Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_sentinelone.mp4)
+- [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/spartoo_business_logic.mkv)
+- [Race Condition Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/race-condition-project-create-infisical.com.mp4)
+- [Server Side Template Injection (SSTI) Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_.mp4)
+- [Auth Misconfigure Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/prowly.com_otp_leaked.mp4)
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/pass-reset-link-not-expire-after-pass-change_infisical.mp4
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/google_race-condition.mp4
 - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/account-takeover-through-csrf(1).mp4
