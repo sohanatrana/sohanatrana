@@ -44,6 +44,7 @@ and various other security assessment tools.
 
 ## 🐛 Vulnerability Knowledge (and counting!):
 <p><b>I have completed OWASP Top 10 Vulnerability List Along With Other's</b></p>
+
 - Open Redirect
 - Host Header Injection
 - File Upload Vulnerabilities
