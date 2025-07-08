@@ -54,7 +54,7 @@ and various other security assessment tools.
 
 ### 🛡️ CORE EXPERTISE
 #### 💻 PROGRAMMING & SCRIPTING
-
+<p>I have learned of this programming language basic for better understanding of networking, web application workflow, security misconfiguration, doing automation & operating kali linux from command line</p>
    Python&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Exploit development, automation, web scraping</br>
    Bash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Linux automation, tool scripting</br>
     C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;Basic understanding for reverse engineering</br></br>
