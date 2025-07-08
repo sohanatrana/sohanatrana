@@ -12,9 +12,9 @@
 🔹 Continuous Learner – Always exploring new attack vectors & security trends 📚</br>
 
 #### 🔗 Connect With Me
-📞 Phone: +8801575382663</br>
-📧 Email: sohanatrana@gmail.com</br>
-📘 Facebook: https://www.facebook.com/sohan.rana.52090</br>
+📞 Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +8801575382663</br>
+📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sohanatrana@gmail.com</br>
+📘 Facebook&nbsp;: https://www.facebook.com/sohan.rana.52090</br>
 🐦 Twitter (X): https://x.com/sohanrana101</br></br></br>
 
 ## 🧠 Skills & Expertise
