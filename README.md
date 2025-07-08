@@ -54,6 +54,7 @@ and various other security assessment tools.
 - Server-Side Template Injection (SSTI)
 - Request Smuggling
 - Race Condition
+- Parameter Temparing (HPP)
 - Authentication Bypass
 - Personally Identifiable Information (PII) Leaks
 - Business Logic Vulnerabilities
@@ -89,18 +90,18 @@ and various other security assessment tools.
 - [Business Logic Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/spartoo_business_logic.mkv)
 - [Race Condition Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/race-condition-project-create-infisical.com.mp4)
 - [Server Side Template Injection (SSTI) Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/ssti_.mp4)
-- [Auth Misconfigure Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/prowly.com_otp_leaked.mp4)
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/pass-reset-link-not-expire-after-pass-change_infisical.mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/google_race-condition.mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/account-takeover-through-csrf(1).mp4
-- https://github.com/sohanatrana/Vulnerability-PoC/blob/main/access_control_issue_cloud.elastic.co.mp4
-- https://drive.google.com/file/d/1anQhB56hmHTA2m5ORB9ItSlGqPm70C0T/view?usp=drive_link
-- https://drive.google.com/file/d/1FgS4RYIvzG_7oyq1ADzmDawviDHmJK2B/view?usp=drive_link
-- https://drive.google.com/file/d/1yuxWosm1EhaymMfHrzFMK56_0ixPxqvP/view?usp=drive_link
-- https://drive.google.com/file/d/1Qtqrc5RE4QwzTb6HR20cfsSPH54k8ahR/view?usp=drive_link
-- https://drive.google.com/file/d/1Ar816N4KUohqah9f4yrwpCO5qXEmCLhy/view?usp=drive_link
-- https://drive.google.com/file/d/1bkx94RgxGPt396wZAG7NGgxtS3JSZs7B/view?usp=drive_link
-- https://drive.google.com/file/d/1B_w9dE5C0AMh-LEwTe_WuB38ejpV2CXw/view?usp=drive_link
+- [Auth Misconfiguration Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/prowly.com_otp_leaked.mp4)
+- [Auth Misconfiguration Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/pass-reset-link-not-expire-after-pass-change_infisical.mp4)
+- [Race Condition Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/google_race-condition.mp4)
+- [Account Takeover Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/account-takeover-through-csrf(1).mp4)
+- [Access Control Vulnerability Vulnerability](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/access_control_issue_cloud.elastic.co.mp4)
+- [HTTP Request Smuggling Vulnerability](https://drive.google.com/file/d/1anQhB56hmHTA2m5ORB9ItSlGqPm70C0T/view?usp=drive_link)
+- [Parameter Temparing (HPP) Vulnerability](https://drive.google.com/file/d/1FgS4RYIvzG_7oyq1ADzmDawviDHmJK2B/view?usp=drive_link)
+- [Parameter Temparing (HPP) Vulnerability](https://drive.google.com/file/d/1yuxWosm1EhaymMfHrzFMK56_0ixPxqvP/view?usp=drive_link)
+- [Access Control With Race Condition Vulnerability](https://drive.google.com/file/d/1Qtqrc5RE4QwzTb6HR20cfsSPH54k8ahR/view?usp=drive_link)
+- [Session Management Vulnerability](https://drive.google.com/file/d/1Ar816N4KUohqah9f4yrwpCO5qXEmCLhy/view?usp=drive_link)
+- [Race Condition Vulnerability](https://drive.google.com/file/d/1bkx94RgxGPt396wZAG7NGgxtS3JSZs7B/view?usp=drive_link)
+- [Authentication Vulnerability](https://drive.google.com/file/d/1B_w9dE5C0AMh-LEwTe_WuB38ejpV2CXw/view?usp=drive_link)
 </br>
 
 #### 🏆 CTF ACHIEVEMENTS
@@ -109,7 +110,7 @@ and various other security assessment tools.
     Practice google pico ctf for fun
     Solved 50+ challenges across categories
 #### Below CTF Certicate Link
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf
+   - [Phoenix CTF](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/phoenix-ctf-certificate.pdf)
 </br></br>
 ### 📚 EDUCATION
 - Completed degree from <b>Islamic Arabic University</b>
@@ -119,16 +120,16 @@ and various other security assessment tools.
 - cybrary-cert-cissp-or-domain-1-information-security-and-risk-management (Cybrary)
 - cybrary-cert-cissp-or-domain-8-application-security (Cybrary)</br>
 #### Below Some Of Certification From Udemy & Other Courses
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-1-information-security-and-risk-management.pdf
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf</br>
+   - [Bug Bounty Hunting With Burp Suite](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Bug%20Bounty%20Hunting%20With%20Burp%20Suite.pdf)
+   - [Cyber Security Fundamentals in Bangla](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Cyber%20Security%20Fundamentals%20in%20Bangla.pdf)
+   - [Kali Linux For Ethical Hacking and Vulnerability assessment](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/Kali%20Linux%20For%20Ethical%20Hacking%20and%20Vulnerability%20assessment.pdf)
+   - [cybrary-cert-cissp-or-domain-1-information-security-and-risk-management](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-1-information-security-and-risk-management.pdf)
+   - [cybrary-cert-cissp-or-domain-8-application-security](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/cybrary-cert-cissp-or-domain-8-application-security.pdf</br>)
 
 
 #### I have also reported a security misconfigured vulnerability to IsDB BISEW 
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Report%20To%20IDB.jpg  (vulnerability report screenshot)
-   - https://github.com/sohanatrana/Vulnerability-PoC/blob/main/IDB%20reply.jpg  (reply of the report screenshot)
+   - [Vulnerability Report](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/My%20Report%20To%20IDB.jpg)
+   - [IsDB Reply](https://github.com/sohanatrana/Vulnerability-PoC/blob/main/IDB%20reply.jpg)
 
 
 
